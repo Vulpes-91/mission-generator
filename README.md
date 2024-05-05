@@ -1,10 +1,19 @@
 # mission-generator
-This program will generate missions for Warcry, Necromunda, Infinity and maybe some other systems.  Just a study case which might be useful for wargamers. 
+Программа будет генерировать миссии и условия для Варкрай (в будущем добавится некромунда и другие системы)
 
-Basic concept 
 
-Choose language -> choose system -> generate stuff 
-For warcry the first milestone will be adding twist generators. 
+СПИСОК ФИЧ
+
+Выбор языка (?)
+Выбор системы
+Варкрай - генерация миссий, твистов, как сделать генерацию карт?
+Возможно разбить каждую миссию на отдельный файл. Посмотреть, как открывать файлы из этой же папки. 
+
+
+ИСТОРИЯ ВЕРСИЙ
 
 version 0.0.1 
-Added random Twist cards 
+Добавил базовые твисты Варкрай из книги правил
+
+version 0.0.2
+Добавил базовые миссии блока А Варкрай из книги правил
